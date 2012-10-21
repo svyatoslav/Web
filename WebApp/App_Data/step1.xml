@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <subtitle>Enter Your Name &amp; Surname</subtitle>
+  <form action="/Home/Step1">
+    <title>Step1</title>
+    <input>name</input>
+    <input>surname</input>
+    <submit>Next</submit>
+  </form>
+</page>
+

@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Index</title>
+</head>
+<body>
+    <h2>Enter Your Name & Surname</h2>
+    @using (@Html.BeginForm("Step2", "Home"))
+    {
+        <div>
+            <input type="text" placeholder="Name"/><br />
+            <input type="text" placeholder="Surname"/>
+        </div>
+        <input type="submit" value="next" />
+    }
+</body>
+</html>

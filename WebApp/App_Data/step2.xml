@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <subtitle>Enter Your Address &amp; Phone</subtitle>
+  <form action="/Home/Step2">
+    <title>Step2</title>
+    <input>Address</input>
+    <input>Phone</input>
+    <submit>Next</submit>
+  </form>
+</page>
