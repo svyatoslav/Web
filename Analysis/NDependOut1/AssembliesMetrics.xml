@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<AssembliesMetrics>
+  <Assembly Assembly="DomainModel v1.0.0.0" NTypes="14" NAbstractTypes="2" NILInstructionInAsm="1169" NbLinesOfCodeInAsm="111" NbLinesOfCommentInAsm="36" PercentageCommentInAsm="24" PercentageCoverageInAsm="-" AfferentCoupling="5" EfferentCoupling="57" RelationalCohesion="1.36" Instability="0.92" Abstractness="0.14" DistFrMainSeq="0.04" NormDistFrMainSeq="0.06" />
+  <Assembly Assembly="WebApp v1.0.0.0" NTypes="11" NAbstractTypes="1" NILInstructionInAsm="1616" NbLinesOfCodeInAsm="225" NbLinesOfCommentInAsm="29" PercentageCommentInAsm="11" PercentageCoverageInAsm="-" AfferentCoupling="0" EfferentCoupling="63" RelationalCohesion="0.82" Instability="1" Abstractness="0.09" DistFrMainSeq="0.06" NormDistFrMainSeq="0.09" />
+</AssembliesMetrics>

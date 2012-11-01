@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ApplicationMetrics NAsm="2" NbSourceFiles="23" NbLinesOfCode="336" NbLinesOfComment="65" PercentageComment="16" NType="25" NClass="22" NAbstractClass="0" NInterface="3" NValueType="0" NExceptionType="0" NAttributeType="0" NDelegateType="0" NEnumType="0" NGenericMethodsDefinition="0" NGenericTypesDefinition="1" NILInstruction="2785" NMethods="158" NFields="55" NNamespaces="11" NThirdPartyAssemblies="8" NThirdPartyNamespaces="28" NThirdPartyTypes="120" NThirdPartyMethods="115" NThirdPartyFields="2" PercentCodeCoverage="0" PercentPublicType="76" PercentPublicMethod="85.44" PercentClassWithAtLeastOnePublicField="4">
+  <PropertyOnInterface Occ="3" Avg="0.33" StdDev="0.47" MaxVal="1" MaxName="WebApp.Interface.IValueListIterator" />
+  <MethodOnInterface Occ="3" Avg="4.33" StdDev="1.7" MaxVal="6" MaxName="DomainModel.Interfaces.IUnitOfWork" />
+  <ArgOnMethodOnInterface Occ="13" Avg="0.69" StdDev="0.46" MaxVal="1" MaxName="DomainModel.Interfaces.IUserMapper.Create(User)" />
+  <PublicPropertyOnClass Occ="22" Avg="1.5" StdDev="2.78" MaxVal="11" MaxName="DomainModel.Models.Paging" />
+  <PublicMethodOnClass Occ="22" Avg="5.55" StdDev="5.39" MaxVal="23" MaxName="DomainModel.Models.Paging" />
+  <ArgOnPublicMethodOnClass Occ="122" Avg="0.71" StdDev="0.81" MaxVal="4" MaxName="WebApp.Helper.PagingHelper.GetPagingModel(Int32,Int32,Int32,String)" />
+  <ILInstructionInNonAbstractMethods Occ="145" Avg="19.21" StdDev="26.64" MaxVal="184" MaxName="WebApp.Helper.XMLUserWriter.CreatePagingNode(Paging,XmlDocument)" />
+  <TypeWithTheMostILInstruction Occ="22" Avg="126.59" StdDev="141.17" MaxVal="563" MaxName="WebApp.Controllers.HomeController" />
+  <MethodCC Occ="145" Avg="1.52" StdDev="1.5" MaxVal="10" MaxName="DomainModel.UnitOfWork.Commit()" />
+</ApplicationMetrics>
